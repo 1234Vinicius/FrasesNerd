@@ -4,6 +4,6 @@
 
 Gerador de Frases aleatórias.
 
-![image](https://user-images.githubusercontent.com/52284130/86809492-51c5f300-c052-11ea-9026-78f0c1327cd7.png)
-![image](https://user-images.githubusercontent.com/52284130/86809531-58ed0100-c052-11ea-8772-3b1dda2d3509.png)
-![image](https://user-images.githubusercontent.com/52284130/86809563-60140f00-c052-11ea-814b-9e49b887d4ae.png)
+![image](https://user-images.githubusercontent.com/52284130/86809845-aff2d600-c052-11ea-8e82-42e3d1e95015.png)
+![image](https://user-images.githubusercontent.com/52284130/86809863-b4b78a00-c052-11ea-9bb6-1a90640aad2e.png)
+![image](https://user-images.githubusercontent.com/52284130/86809879-b97c3e00-c052-11ea-9af8-53ea8ec50326.png)
